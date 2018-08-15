@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+    padding: 250px;
+    margin: -180px;
+}
+
+#game-text{
+    background-color: darkblue;
+    color: gold;
+    padding: 50px;
+    font-size: 30px;
+}
+
+
+form{
+    background-color: gold;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+    right: 330px;
+  
+}
+input{
+    background-color: gold;
+    color:black;
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+    right: 330px;
+}
+input2{
+    background-color: gold;
+    color:black;
+    font-size: larger;
+    font-weight: bold;
+    position: absolute;
+    right: 330px;
+}
+
+b:hover{
+    font-size: larger; 
+    color: whitesmoke;
+}
